@@ -1,3 +1,11 @@
+# Ring 한국어 문서
+
+> 이 저장소는, 클로저 프로그래밍 언어 환경에서 웹개발을 위한 사실상의 표준인, Ring 스펙의 문서를 한국어로 번역한 곳입니다. 원래 Ring 프로젝트의 주소는 <https://github.com/ring-clojure/ring>입니다. 그리고, 한국어판 위키 문서는 아래 링크를 클릭해 주세요.
+
+* <https://github.com/hatemogi/ring/wiki>
+
+---
+
 # Ring
 
 [![Build Status](https://travis-ci.org/ring-clojure/ring.svg?branch=master)](https://travis-ci.org/ring-clojure/ring)
